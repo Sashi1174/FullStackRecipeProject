@@ -76,3 +76,4 @@ This project uses Django Rest Framework (DRF) APIs and Django Channels to build 
 
 A `API.postman_collection.json` file is included for easy testing of the API endpoints with Postman. Simply import this file into Postman to get started.
 
+"# FullStackRecipeProject" 
